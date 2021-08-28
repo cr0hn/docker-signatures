@@ -1,6 +1,6 @@
 # Docker-Signatures
 
-Docker signatures ensure that a Docker Image has all signatures.
+Docker signatures ensure that a Docker Image has all required signatures.
 
 # Why
 
