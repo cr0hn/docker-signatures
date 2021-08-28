@@ -83,6 +83,6 @@ Checking that signatures of 'jeff' and 'Joan' are included:
 0 
 ```
 
-    NOTE: `docker-signatures` also works with JSON output of `docker trust inspect` command.
+    NOTE: **docker-signatures** also works with JSON output of **docker trust inspect** command.
 
 
