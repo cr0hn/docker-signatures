@@ -5,8 +5,8 @@ on:
   push:
     branches:
       - master
-#    paths:
-#      - docker_signatures/*
+    paths:
+      - docker_signatures/*
 
 jobs:
 
