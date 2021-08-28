@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "localhost:5000/ubuntu:mine",
+        "SignedTags": [],
+        "Signers": [
+            {
+                "Name": "Jeff",
+                "Keys": [
+                    {
+                        "ID": "f39f731f1c288b66c10d70905de6d98dfa40104741c878cb2766cddc6ed52f28"
+                    }
+                ]
+            },
+            {
+                "Name": "Joan",
+                "Keys": [
+                    {
+                        "ID": "f39f731f1c288b66c10d70905de6d98dfa40104741c878cb2766cddc6ed52f28"
+                    }
+                ]
+            }
+        ],
+        "AdministrativeKeys": [
+            {
+                "Name": "Root",
+                "Keys": [
+                    {
+                        "ID": "58617dd8ce70d089e7a2669bc782472e677466278d4519c2de5ec0148b681129"
+                    }
+                ]
+            },
+            {
+                "Name": "Repository",
+                "Keys": [
+                    {
+                        "ID": "10e5763ffaaa7e1e606575005f460369f9f3ef49e553914b50589f1b822f695b"
+                    }
+                ]
+            }
+        ]
+    }
+]
